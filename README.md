@@ -56,7 +56,7 @@
 
 ## 正誤表
 
-本書の正誤表は以下のページで公開しています。
+本書の正誤表は以下のページで公開されています。
 
 - [「大規模言語モデル入門」正誤表](https://github.com/ghmagazine/llm-book/wiki/errata)
 - [「大規模言語モデル入門Ⅱ〜生成型LLMの実装と評価」正誤表](https://github.com/ghmagazine/llm-book/wiki/errata2)
